@@ -2,8 +2,6 @@
 
 FueLIFT is a responsive web platform designed to empower individuals in their health journey through certified trainer support, personalized nutrition tools, and high-quality fitness content.
 
-![FueLIFT Logo](images/logo.jpg) <!-- Replace with your banner image if available -->
-
 ---
 
 ## 🚀 Features
