@@ -29,17 +29,3 @@ FueLIFT is a responsive web platform designed to empower individuals in their he
 
 ---
 
-## 📸 Screenshots
-
-> _You can add screenshots like this later:_
-
-![Trainer Booking](images/screenshots/booking.png)  
-![Calorie Calculator](images/screenshots/calculator.png)
-
----
-
-## ⚙️ How to Use Locally
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/yourusername/fuelift.git
